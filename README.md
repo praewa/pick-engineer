@@ -1,3 +1,3 @@
-Project : Randon engineers name from file of project
-input : list of engineer names as engineers.txt
+Project : Ramdon engineers name from file of project 
 usage : ruby picker.rb in terminal
+Display : Show Random name
